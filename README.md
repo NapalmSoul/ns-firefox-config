@@ -4,7 +4,6 @@ Personal Firefox / Zen Browser `user.js` — privacy hardened + performance tune
 
 The big brother of [ns-firefox-config-lean](https://github.com/NapalmSoul/ns-firefox-config-lean)
 
----
 ## What's in here
 
 - Full telemetry and crash reporting disabled
@@ -14,7 +13,6 @@ The big brother of [ns-firefox-config-lean](https://github.com/NapalmSoul/ns-fir
 - DNS-over-HTTPS disabled
 - All performance tweaks from [ns-firefox-config-lean](https://github.com/NapalmSoul/ns-firefox-config-lean)
 
----
 ## Installation
 
 Drop `user.js` into your Firefox or Zen profile folder and restart.
@@ -29,14 +27,12 @@ or
 or
 `~/.config/zen/<PROFILE_FOLDER>/`
 
----
 ## Extensions that complement this config
 
 - AdNauseam (uBlock Origin-based)
 - CanvasBlocker
 - LocalCDN
 
----
 ### End Notes
 This is definitely not for everyone, but you're free to take a peek and use what you see fit.
 
