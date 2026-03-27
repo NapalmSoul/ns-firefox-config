@@ -1,6 +1,6 @@
 # NapalmSoul's Firefox Config
 
-Personal Firefox / Zen Browser `user.js` — privacy hardened + performance tuned.
+Personal Firefox / Zen Browser `user.js` - privacy hardened + performance tuned.
 
 The big brother of [ns-firefox-config-lean](https://github.com/NapalmSoul/ns-firefox-config-lean)
 
@@ -36,8 +36,8 @@ or
 ### End Notes
 This is definitely not for everyone, but you're free to take a peek and use what you see fit.
 
-- `media.peerconnection.enabled = false` — WebRTC disabled, will probably break browser-based video calls
-- `media.eme.enabled = false` — DRM disabled, use desktop apps for Netflix/Spotify etc.
-- `signon.autofillForms = false` — password autofill disabled, handled by other extensions like KeePassXC-Browser or Bitwarden Password Manager
+- `media.peerconnection.enabled = false` - WebRTC disabled, will probably break browser-based video calls
+- `media.eme.enabled = false` - DRM disabled, use desktop apps for Netflix/Spotify etc.
+- `signon.autofillForms = false` - password autofill disabled, handled by other extensions like KeePassXC-Browser or Bitwarden Password Manager
 
 *Given enough time and will - I will be fleshing this out with an actual install script or something...*
